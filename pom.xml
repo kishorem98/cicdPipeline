@@ -43,6 +43,7 @@
 				<applicationName>${appName}</applicationName>
 				<workers>${workers}</workers>
 				<workerType>${workerType}</workerType>
+				<objectStoreV2>true</objectStoreV2>
 				
 				</cloudHubDeployment>
 				
